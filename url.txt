@@ -1,0 +1,3 @@
+dataset tiroid - https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence
+hugging face deployment - https://huggingface.co/spaces/Putrafisabilal/P1M2_Deployment
+streamlit deployment - https://reccured-pasien-test.streamlit.app/
